@@ -13,4 +13,4 @@ Bursa Uludağ Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.
   
 
 ## 📫 İletişim
-- **E-posta:** meryemcitak1907@email.com
+- **E-posta:** meryemcitak1907@gmail.com
